@@ -64,5 +64,5 @@ An intelligent and interactive Python-based healthcare assistant that predicts p
 
 1. Install dependencies:
    ```bash
-   pip install matplotlib scikit-learn googletrans==4.0.0-rc1 pyttsx3
+   pip install matplotlib scikit-learn googletrans==4.0.0-rc1 pyttsx3 pip install --upgrade httpx pip install deep-translator
 
