@@ -39,7 +39,7 @@ An intelligent and interactive Python-based healthcare assistant that predicts p
 1. **User Input**: The user enters their name, age, language, and symptoms.
 2. **Symptom Processing**: Valid symptoms are matched against known mappings.
 3. **Disease Prediction**: A trained Naive Bayes model predicts the disease based on symptoms.
-4. **Voice & Translation**: The output is spoken aloud and translated to the user's preferred language.
+4. **Voice & Translation**: The output is spoken aloud and translated to the user's.
 5. **Visual Insights**: Displays graphs including:
    - Fever trend (if symptom includes fever)
    - Confidence of prediction
@@ -55,7 +55,7 @@ An intelligent and interactive Python-based healthcare assistant that predicts p
 - Each disease is mapped with 2-3 relevant symptoms.
 - Data is expanded by shuffling and recombining symptoms multiple times to simulate real-world variation.
 - You can later improve accuracy by integrating a larger dataset from medical sources like:
-  - [Kaggle: Symptom-Disease Dataset](https://www.kaggle.com)
+  - [Kaggle:Disease and Symptoms dataset](https://www.kaggle.com)
   - Government Health Portals or WHO datasets
 
 ---
