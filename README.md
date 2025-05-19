@@ -1,13 +1,13 @@
 # 🩺 AI-Powered Healthcare Assistant
 
-An intelligent and interactive Python-based healthcare assistant that predicts possible diseases based on symptoms, suggests treatments, shows health-related visualizations, and supports multilingual voice responses. It also simulates IoT health data like heart rate monitoring.
+An intelligent and interactive Python-based healthcare assistant that predicts possible diseases based on symptoms, suggests treatments, shows health-related visualizations, and supports multilingual & voice responses. It also simulates IoT health data like heart rate monitoring.
 
 ---
 
 ## 🚀 Features
 
 - ✅ Symptom-based disease prediction using Machine Learning
-- 🗣️ Voice response in English, Tamil, or Hindi using `pyttsx3`
+- 🗣️ Voice response in English using `pyttsx3`
 - 🌐 Multilingual translation of results using Google Translate
 - 📊 Health visualizations:
   - Fever temperature trend graph
